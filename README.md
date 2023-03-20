@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saroj-24
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning andriod development
+- 👀 I’m interested in coding,building Desktop Application,Mobile Application
+- 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on andriod project
 - 📫 How to reach me urcoder75@gmail.com
 - 🌱 I know Java,C,DBMS
