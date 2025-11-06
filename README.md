@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saroj Yadav</h1>
-<h3 align="center">A passionate Android app developer from Nepal</h3>
+<h3 align="center">A passionate Mobile app developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saroj-24&label=Profile%20views&color=0e75b6&style=flat" alt="saroj-24" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sarojydv24" target="blank"><img src="https://img.shields.io/twitter/follow/sarojydv24?logo=twitter&style=for-the-badge" alt="sarojydv24" /></a> </p>
 
-- 🌱 I’m  **Android App Developer**
+- 🌱 I’m  **Mobile App Developer**
 
 - 👯 I’m looking to collaborate on **on andriod project**
 
